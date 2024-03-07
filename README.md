@@ -46,3 +46,4 @@ Please do not attempt cross-loading without knowing what you're doing.
 - r4i-gold.me 2013
 - amazekard.com cards
 - Galaxy Eagle cards (use the Amaze3DS version and rename _DS_MENU.dat to ge.nds)
+ 
